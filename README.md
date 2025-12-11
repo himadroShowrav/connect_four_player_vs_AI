@@ -1,6 +1,6 @@
 # Connect Four Game with Minimax AI
 
-![Connect Four Icon](connect_four_icon.png)
+![Connect Four Icon](images/connect_four_icon.png)
 
 A Python implementation of the classic Connect Four game featuring an intelligent AI opponent powered by the Minimax algorithm with alpha-beta pruning.
 
